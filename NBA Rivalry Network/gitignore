@@ -1,0 +1,7 @@
+# raw source data (download links are in build_nba.R)
+data/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
