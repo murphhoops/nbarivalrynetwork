@@ -2,7 +2,7 @@
 
 An interactive chord diagram of head-to-head records among all 30 NBA franchises, from the start of the shot clock era (1954–55) through 2025–26. Toggle between all games and playoffs only, and click any team to see its record against every opponent.
 
-**Live page:** _add your GitHub Pages or Netlify link here_
+**Live page:** (https://murphhoops.github.io/nbarivalrynetwork/NBA%20Rivalry%20Network/)
 
 ## How to read it
 
